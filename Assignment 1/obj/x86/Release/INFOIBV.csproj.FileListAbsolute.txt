@@ -1,0 +1,17 @@
+D:\Shared\Image Processing\assignment\INFOIBV\bin\Release\INFOIBV.exe
+D:\Shared\Image Processing\assignment\INFOIBV\bin\Release\INFOIBV.pdb
+D:\Shared\Image Processing\assignment\INFOIBV\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Shared\Image Processing\assignment\INFOIBV\obj\x86\Release\INFOIBV.INFOIBV.resources
+D:\Shared\Image Processing\assignment\INFOIBV\obj\x86\Release\INFOIBV.Properties.Resources.resources
+D:\Shared\Image Processing\assignment\INFOIBV\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Shared\Image Processing\assignment\INFOIBV\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Shared\Image Processing\assignment\INFOIBV\obj\x86\Release\INFOIBV.exe
+D:\Shared\Image Processing\assignment\INFOIBV\obj\x86\Release\INFOIBV.pdb
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\bin\Release\INFOIBV.exe
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\bin\Release\INFOIBV.pdb
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Release\INFOIBV.INFOIBV.resources
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Release\INFOIBV.Properties.Resources.resources
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Release\INFOIBV.csproj.GenerateResource.cache
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Release\INFOIBV.exe
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Release\INFOIBV.pdb
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Release\INFOIBV.csprojResolveAssemblyReference.cache
