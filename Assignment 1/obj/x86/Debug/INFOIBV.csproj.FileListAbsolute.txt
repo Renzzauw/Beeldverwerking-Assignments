@@ -16,3 +16,12 @@ G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Debug
 G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.pdb
 G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
 G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignments\Assignment 1\bin\Debug\INFOIBV.exe
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignments\Assignment 1\bin\Debug\INFOIBV.pdb
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.csprojAssemblyReference.cache
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.INFOIBV.resources
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.Properties.Resources.resources
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.csproj.GenerateResource.cache
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.csproj.CoreCompileInputs.cache
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.exe
+G:\Mijn Drive\_Derde Jaar\Beeldverwerking\Assignments\Assignments\Assignment 1\obj\x86\Debug\INFOIBV.pdb
